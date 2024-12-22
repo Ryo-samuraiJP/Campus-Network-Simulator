@@ -8,6 +8,7 @@ Campus Network Simulator is my network project, in which I designed and implemen
 - [Documentation](#documentation)
 - [Packet File](#packet-file)
 - [Technologies Used](#technologies-used)
+- [License](#license)
 
 
 ## Features
@@ -31,10 +32,11 @@ Click the image to see the documentation on Google Drive.
 
 
 ## Packet File
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=plastic&logo=cisco&logoSize=auto&labelColor=grey)](https://drive.usercontent.google.com/u/0/uc?id=1HVgYZu9RMIlfEn8bxssOG3lytE-uWUOh&export=download/)
-
-To donwload the Packet file, click this link, https://drive.usercontent.google.com/u/0/uc?id=1HVgYZu9RMIlfEn8bxssOG3lytE-uWUOh&export=download/.
+Download the packet file → https://drive.usercontent.google.com/u/0/uc?id=1HVgYZu9RMIlfEn8bxssOG3lytE-uWUOh&export=download/
 
 
 ## Technologies Used
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=grey)
+
+## License 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ryo-samuraiJP/Campus-Network-Simulator/blob/main/LICENSE.md) file for details.
