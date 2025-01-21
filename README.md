@@ -17,7 +17,7 @@ Campus Network Simulator is my network project, in which I designed and implemen
 - The network design addressed various requirements, including **network segmentation**, **efficient IP management**, and **seamless inter-building communication**.
 
 ## YouTube Demo 
-Click the image to watch the demo video on YouTube. 
+Watch the [demo video](https://www.youtube.com/watch?v=ayVUSVRPLqE) on YouTube.
 
 <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE">
   <img src="https://github.com/user-attachments/assets/b43d3df1-19e7-4941-9a04-918bc87d5ffa" alt="thumbnail" width="70%" height="70%">
